@@ -1,0 +1,11 @@
+[package]
+name = "dfs_rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+utils = { path = "../utils" }
+
+[[bin]]
+name = "dfs_rs"
+path = "dfs_rs.rs"
