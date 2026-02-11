@@ -1,6 +1,9 @@
 <div align="center">
+  
 # PA-Pathfinding algorithm benchmark platform
+
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 This is a benchmark platform for pathfinding algorithm targets running on the embeded devices. This platform contains 5 different algorithms (A*, BFS, DFS, Dijkstra and FA) written in C and Rust. Using Python and Makfile script to bench them.
 </div>
 
